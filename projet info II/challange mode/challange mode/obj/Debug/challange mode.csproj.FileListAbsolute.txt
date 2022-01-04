@@ -1,0 +1,45 @@
+c:\users\kmazl\documents\visual studio 2015\Projects\challange mode\challange mode\bin\Debug\challange mode.exe.config
+c:\users\kmazl\documents\visual studio 2015\Projects\challange mode\challange mode\bin\Debug\challange mode.exe
+c:\users\kmazl\documents\visual studio 2015\Projects\challange mode\challange mode\bin\Debug\challange mode.pdb
+c:\users\kmazl\documents\visual studio 2015\Projects\challange mode\challange mode\obj\Debug\challange mode.csprojResolveAssemblyReference.cache
+c:\users\kmazl\documents\visual studio 2015\Projects\challange mode\challange mode\obj\Debug\challange_mode.Form1.resources
+c:\users\kmazl\documents\visual studio 2015\Projects\challange mode\challange mode\obj\Debug\challange_mode.Properties.Resources.resources
+c:\users\kmazl\documents\visual studio 2015\Projects\challange mode\challange mode\obj\Debug\challange mode.csproj.GenerateResource.Cache
+c:\users\kmazl\documents\visual studio 2015\Projects\challange mode\challange mode\obj\Debug\challange mode.exe
+c:\users\kmazl\documents\visual studio 2015\Projects\challange mode\challange mode\obj\Debug\challange mode.pdb
+E:\challange mode\challange mode\bin\Debug\challange mode.exe.config
+E:\challange mode\challange mode\obj\Debug\challange mode.exe
+E:\challange mode\challange mode\obj\Debug\challange mode.pdb
+E:\challange mode\challange mode\bin\Debug\challange mode.exe
+E:\challange mode\challange mode\bin\Debug\challange mode.pdb
+E:\challange mode\challange mode\obj\Debug\challange mode.csprojResolveAssemblyReference.cache
+E:\challange mode\challange mode\obj\Debug\challange_mode.Form1.resources
+E:\challange mode\challange mode\obj\Debug\challange_mode.Properties.Resources.resources
+E:\challange mode\challange mode\obj\Debug\challange mode.csproj.GenerateResource.Cache
+G:\challange mode\challange mode\bin\Debug\challange mode.exe.config
+G:\challange mode\challange mode\bin\Debug\challange mode.exe
+G:\challange mode\challange mode\bin\Debug\challange mode.pdb
+G:\challange mode\challange mode\obj\Debug\challange mode.csprojResolveAssemblyReference.cache
+G:\challange mode\challange mode\obj\Debug\challange_mode.Form1.resources
+G:\challange mode\challange mode\obj\Debug\challange_mode.Properties.Resources.resources
+G:\challange mode\challange mode\obj\Debug\challange mode.csproj.GenerateResource.Cache
+G:\challange mode\challange mode\obj\Debug\challange mode.exe
+G:\challange mode\challange mode\obj\Debug\challange mode.pdb
+C:\Users\HP\Documents\Visual Studio 2017\Projects\challange mode\challange mode\bin\Debug\challange mode.exe.config
+C:\Users\HP\Documents\Visual Studio 2017\Projects\challange mode\challange mode\bin\Debug\challange mode.exe
+C:\Users\HP\Documents\Visual Studio 2017\Projects\challange mode\challange mode\bin\Debug\challange mode.pdb
+C:\Users\HP\Documents\Visual Studio 2017\Projects\challange mode\challange mode\obj\Debug\challange mode.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2017\Projects\challange mode\challange mode\obj\Debug\challange_mode.Form1.resources
+C:\Users\HP\Documents\Visual Studio 2017\Projects\challange mode\challange mode\obj\Debug\challange_mode.Properties.Resources.resources
+C:\Users\HP\Documents\Visual Studio 2017\Projects\challange mode\challange mode\obj\Debug\challange mode.csproj.GenerateResource.Cache
+C:\Users\HP\Documents\Visual Studio 2017\Projects\challange mode\challange mode\obj\Debug\challange mode.exe
+C:\Users\HP\Documents\Visual Studio 2017\Projects\challange mode\challange mode\obj\Debug\challange mode.pdb
+C:\Users\User\Desktop\projet info II\challange mode\challange mode\bin\Debug\challange mode.exe.config
+C:\Users\User\Desktop\projet info II\challange mode\challange mode\obj\Debug\challange mode.exe
+C:\Users\User\Desktop\projet info II\challange mode\challange mode\obj\Debug\challange mode.pdb
+C:\Users\User\Desktop\projet info II\challange mode\challange mode\bin\Debug\challange mode.exe
+C:\Users\User\Desktop\projet info II\challange mode\challange mode\bin\Debug\challange mode.pdb
+C:\Users\User\Desktop\projet info II\challange mode\challange mode\obj\Debug\challange mode.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\projet info II\challange mode\challange mode\obj\Debug\challange_mode.Form1.resources
+C:\Users\User\Desktop\projet info II\challange mode\challange mode\obj\Debug\challange_mode.Properties.Resources.resources
+C:\Users\User\Desktop\projet info II\challange mode\challange mode\obj\Debug\challange mode.csproj.GenerateResource.Cache

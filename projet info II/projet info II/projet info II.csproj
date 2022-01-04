@@ -1,0 +1,442 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{BEA5F5A8-D24C-4861-863F-7CF824D912F8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>projet_info_II</RootNamespace>
+    <AssemblyName>projet info II</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="challange mode, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\challange mode.exe</HintPath>
+    </Reference>
+    <Reference Include="CircularProgressBar">
+      <HintPath>..\packages\CircularProgressBar.2.0.0.0\lib\net35-Client\CircularProgressBar.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DarrenLee.SpeechSynthesis">
+      <HintPath>..\..\Kartouch projet\DarrenLee.SpeechSynthesis.dll</HintPath>
+    </Reference>
+    <Reference Include="matching, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\matching.exe</HintPath>
+    </Reference>
+    <Reference Include="shadowss, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\shadowss.exe</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Xml.Linq">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsFormsApp13">
+      <HintPath>..\..\WindowsFormsApp13\WindowsFormsApp13\bin\Debug\WindowsFormsApp13.exe</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="comporale.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="comporale.Designer.cs">
+      <DependentUpon>comporale.cs</DependentUpon>
+    </Compile>
+    <Compile Include="confbdpq_serie2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="confbdpq_serie2.Designer.cs">
+      <DependentUpon>confbdpq_serie2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="confbdpq.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="confbdpq.Designer.cs">
+      <DependentUpon>confbdpq.cs</DependentUpon>
+    </Compile>
+    <Compile Include="confbdpqserie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="confbdpqserie.Designer.cs">
+      <DependentUpon>confbdpqserie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="confbp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="confbp.Designer.cs">
+      <DependentUpon>confbp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="confbpserie2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="confbpserie2.Designer.cs">
+      <DependentUpon>confbpserie2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="confcg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="confcg.Designer.cs">
+      <DependentUpon>confcg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="confcg_serie2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="confcg_serie2.Designer.cs">
+      <DependentUpon>confcg_serie2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="confchsss_serie2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="confchsss_serie2.Designer.cs">
+      <DependentUpon>confchsss_serie2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="confch_s_ss.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="confch_s_ss.Designer.cs">
+      <DependentUpon>confch_s_ss.cs</DependentUpon>
+    </Compile>
+    <Compile Include="confdt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="confdt.Designer.cs">
+      <DependentUpon>confdt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="confdt_serie2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="confdt_serie2.Designer.cs">
+      <DependentUpon>confdt_serie2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="confgch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="confgch.Designer.cs">
+      <DependentUpon>confgch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="confgch_serie2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="confgch_serie2.Designer.cs">
+      <DependentUpon>confgch_serie2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="confson.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="confson.Designer.cs">
+      <DependentUpon>confson.cs</DependentUpon>
+    </Compile>
+    <Compile Include="confvf.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="confvf.Designer.cs">
+      <DependentUpon>confvf.cs</DependentUpon>
+    </Compile>
+    <Compile Include="confvf_serie2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="confvf_serie2.Designer.cs">
+      <DependentUpon>confvf_serie2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="dictee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dictee.Designer.cs">
+      <DependentUpon>dictee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Francais.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Francais.Designer.cs">
+      <DependentUpon>Francais.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Game.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Game.Designer.cs">
+      <DependentUpon>Game.cs</DependentUpon>
+    </Compile>
+    <Compile Include="grammaire.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="grammaire.Designer.cs">
+      <DependentUpon>grammaire.cs</DependentUpon>
+    </Compile>
+    <Compile Include="homophone_et_est.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="homophone_et_est.Designer.cs">
+      <DependentUpon>homophone_et_est.cs</DependentUpon>
+    </Compile>
+    <Compile Include="lect_son_a.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="lect_son_a.Designer.cs">
+      <DependentUpon>lect_son_a.cs</DependentUpon>
+    </Compile>
+    <Compile Include="lect_son_ou.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="lect_son_ou.Designer.cs">
+      <DependentUpon>lect_son_ou.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Logique.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Logique.Designer.cs">
+      <DependentUpon>Logique.cs</DependentUpon>
+    </Compile>
+    <Compile Include="orthographe_er_é.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="orthographe_er_é.Designer.cs">
+      <DependentUpon>orthographe_er_é.cs</DependentUpon>
+    </Compile>
+    <Compile Include="oublier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="oublier.Designer.cs">
+      <DependentUpon>oublier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="show.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="show.Designer.cs">
+      <DependentUpon>show.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Signin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Signin.Designer.cs">
+      <DependentUpon>Signin.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="comporale.resx">
+      <DependentUpon>comporale.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="confbdpq_serie2.resx">
+      <DependentUpon>confbdpq_serie2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="confbdpq.resx">
+      <DependentUpon>confbdpq.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="confbdpqserie.resx">
+      <DependentUpon>confbdpqserie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="confbp.resx">
+      <DependentUpon>confbp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="confbpserie2.resx">
+      <DependentUpon>confbpserie2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="confcg.resx">
+      <DependentUpon>confcg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="confcg_serie2.resx">
+      <DependentUpon>confcg_serie2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="confchsss_serie2.resx">
+      <DependentUpon>confchsss_serie2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="confch_s_ss.resx">
+      <DependentUpon>confch_s_ss.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="confdt.resx">
+      <DependentUpon>confdt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="confdt_serie2.resx">
+      <DependentUpon>confdt_serie2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="confgch.resx">
+      <DependentUpon>confgch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="confgch_serie2.resx">
+      <DependentUpon>confgch_serie2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="confson.resx">
+      <DependentUpon>confson.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="confvf.resx">
+      <DependentUpon>confvf.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="confvf_serie2.resx">
+      <DependentUpon>confvf_serie2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dictee.resx">
+      <DependentUpon>dictee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Francais.resx">
+      <DependentUpon>Francais.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Game.resx">
+      <DependentUpon>Game.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="grammaire.resx">
+      <DependentUpon>grammaire.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="homophone_et_est.resx">
+      <DependentUpon>homophone_et_est.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lect_son_a.resx">
+      <DependentUpon>lect_son_a.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lect_son_ou.resx">
+      <DependentUpon>lect_son_ou.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Logique.resx">
+      <DependentUpon>Logique.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="orthographe_er_é.resx">
+      <DependentUpon>orthographe_er_é.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="oublier.resx">
+      <DependentUpon>oublier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="show.resx">
+      <DependentUpon>show.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Signin.resx">
+      <DependentUpon>Signin.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\confusion_b_d_p_q.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\count\count.csproj">
+      <Project>{b403eeba-7b47-4fe2-b15b-d8553e1cd6ae}</Project>
+      <Name>count</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\notes\notes.csproj">
+      <Project>{8e8b6b85-0fd5-4b9b-a4a7-081706064c9a}</Project>
+      <Name>notes</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\xmlfile\xmlfile.csproj">
+      <Project>{7742e911-c468-4acf-b685-fd1929661a81}</Project>
+      <Name>xmlfile</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Word">
+      <Guid>{00020905-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>8</VersionMajor>
+      <VersionMinor>7</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

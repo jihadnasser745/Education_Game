@@ -1,0 +1,112 @@
+C:\Users\User\Desktop\projet info II\projet info II\bin\Debug\projet info II.exe.config
+C:\Users\User\Desktop\projet info II\projet info II\bin\Debug\projet info II.exe
+C:\Users\User\Desktop\projet info II\projet info II\bin\Debug\projet info II.pdb
+C:\Users\User\Desktop\projet info II\projet info II\obj\Debug\projet_info_II.Properties.Resources.resources
+C:\Users\User\Desktop\projet info II\projet info II\obj\Debug\projet info II.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\projet info II\projet info II\obj\Debug\projet info II.exe
+C:\Users\User\Desktop\projet info II\projet info II\obj\Debug\projet info II.pdb
+C:\Users\User\Desktop\projet info II\projet info II\obj\Debug\projet_info_II.registration.resources
+C:\Users\User\Desktop\projet info II\projet info II\obj\Debug\projet_info_II.Game.resources
+C:\Users\User\Desktop\projet info II\projet info II\obj\Debug\projet_info_II.oublier.resources
+C:\Users\User\Desktop\projet info II\projet info II\obj\Debug\projet_info_II.Francais.resources
+C:\Users\User\Desktop\projet info II\projet info II\obj\Debug\projet_info_II.Signup.resources
+C:\Users\User\Desktop\projet info II\projet info II\obj\Debug\projet_info_II.confbdpq.resources
+C:\Users\User\Desktop\projet info II\projet info II\obj\Debug\projet_info_II.confson.resources
+C:\Users\User\Desktop\projet info II\projet info II\obj\Debug\projet_info_II.confch_s_ss.resources
+C:\Users\User\Desktop\projet info II\projet info II\bin\Debug\xmlfile.dll
+C:\Users\User\Desktop\projet info II\projet info II\bin\Debug\xmlfile.pdb
+C:\Users\User\Desktop\projet info II\projet info II\obj\Debug\projet_info_II.confbp.resources
+C:\Users\User\Desktop\projet info II\projet info II\obj\Debug\projet_info_II.comporale.resources
+C:\Users\User\Desktop\projet info II\projet info II\obj\Debug\projet_info_II.confcg.resources
+C:\Users\User\Desktop\projet info II\projet info II\bin\Debug\count.dll
+C:\Users\User\Desktop\projet info II\projet info II\bin\Debug\count.pdb
+C:\Users\User\Desktop\projet info II\projet info II\obj\Debug\projet_info_II.confdt.resources
+C:\Users\User\Desktop\projet info II\projet info II\obj\Debug\projet_info_II.confgch.resources
+C:\Users\User\Desktop\projet info II\projet info II\obj\Debug\projet_info_II.confvf.resources
+C:\Users\User\Desktop\projet info II\projet info II\obj\Debug\projet_info_II.lect_son_a.resources
+C:\Users\User\Desktop\projet info II\projet info II\obj\Debug\projet_info_II.lect_son_ou.resources
+C:\Users\User\Desktop\projet info II\projet info II\obj\Debug\projet_info_II.grammaire.resources
+C:\Users\User\Desktop\projet info II\projet info II\obj\Debug\projet_info_II.orthographe_er_é.resources
+C:\Users\User\Desktop\projet info II\projet info II\obj\Debug\projet_info_II.homophone_et_est.resources
+C:\Users\User\Desktop\projet info II\projet info II\obj\Debug\projet_info_II.dictee.resources
+C:\Users\User\Desktop\projet info II\projet info II\bin\Debug\notes.dll
+C:\Users\User\Desktop\projet info II\projet info II\bin\Debug\notes.pdb
+C:\Users\User\Desktop\projet info II\projet info II\obj\Debug\projet_info_II.confbdpq_serie2.resources
+C:\Users\User\Desktop\projet info II\projet info II\obj\Debug\projet_info_II.confbdpqserie.resources
+C:\Users\User\Desktop\projet info II\projet info II\obj\Debug\projet_info_II.confbpserie2.resources
+C:\Users\User\Desktop\projet info II\projet info II\obj\Debug\projet_info_II.confchsss_serie2.resources
+C:\Users\User\Desktop\projet info II\projet info II\obj\Debug\projet_info_II.confdt_serie2.resources
+C:\Users\User\Desktop\projet info II\projet info II\obj\Debug\projet_info_II.confcg_serie2.resources
+C:\Users\User\Desktop\projet info II\projet info II\obj\Debug\projet_info_II.confgch_serie2.resources
+C:\Users\User\Desktop\projet info II\projet info II\obj\Debug\projet_info_II.confvf_serie2.resources
+C:\Users\User\Desktop\projet info II\projet info II\obj\Debug\projet_info_II.show.resources
+C:\Users\User\Desktop\projet info II\projet info II\bin\Debug\WindowsFormsApp13.pdb
+C:\Users\User\Desktop\projet info II\projet info II\obj\Debug\Interop.VBIDE.dll
+C:\Users\User\Desktop\projet info II\projet info II\obj\Debug\projet info II.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\projet info II\projet info II\bin\Debug\Interop.WMPLib.dll
+C:\Users\User\Desktop\projet info II\projet info II\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Desktop\projet info II\projet info II\obj\Debug\Interop.WMPLib.dll
+C:\Users\User\Desktop\projet info II\projet info II\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Desktop\projet info II\projet info II\bin\Debug\CircularProgressBar.dll
+C:\Users\User\Desktop\projet info II\projet info II\bin\Debug\CircularProgressBar.xml
+C:\Users\User\Desktop\projet info II\projet info II\obj\Debug\projet_info_II.Logique.resources
+C:\Users\User\Desktop\Univercite\tronc commun\projet informatique 3\projet info II\projet info II\bin\Debug\projet info II.exe.config
+C:\Users\User\Desktop\Univercite\tronc commun\projet informatique 3\projet info II\projet info II\obj\Debug\Interop.VBIDE.dll
+C:\Users\User\Desktop\Univercite\tronc commun\projet informatique 3\projet info II\projet info II\obj\Debug\Interop.WMPLib.dll
+C:\Users\User\Desktop\Univercite\tronc commun\projet informatique 3\projet info II\projet info II\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Desktop\Univercite\tronc commun\projet informatique 3\projet info II\projet info II\obj\Debug\projet info II.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\Univercite\tronc commun\projet informatique 3\projet info II\projet info II\obj\Debug\projet info II.exe
+C:\Users\User\Desktop\Univercite\tronc commun\projet informatique 3\projet info II\projet info II\obj\Debug\projet info II.pdb
+C:\Users\User\Desktop\projet info II\projet info II\obj\Debug\projet info II.csprojAssemblyReference.cache
+C:\Users\User\Desktop\projet info II\projet info II\obj\Debug\projet info II.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\projet info II\projet info II\obj\Debug\projet info II.csproj.CopyComplete
+C:\Users\User\Desktop\Univercite\tronc commun\projet informatique 3\projet info II\projet info II\bin\Debug\projet info II.exe
+C:\Users\User\Desktop\Univercite\tronc commun\projet informatique 3\projet info II\projet info II\bin\Debug\projet info II.pdb
+C:\Users\User\Desktop\Univercite\tronc commun\projet informatique 3\projet info II\projet info II\bin\Debug\CircularProgressBar.dll
+C:\Users\User\Desktop\Univercite\tronc commun\projet informatique 3\projet info II\projet info II\bin\Debug\count.dll
+C:\Users\User\Desktop\Univercite\tronc commun\projet informatique 3\projet info II\projet info II\bin\Debug\notes.dll
+C:\Users\User\Desktop\Univercite\tronc commun\projet informatique 3\projet info II\projet info II\bin\Debug\WindowsFormsApp13.exe
+C:\Users\User\Desktop\Univercite\tronc commun\projet informatique 3\projet info II\projet info II\bin\Debug\xmlfile.dll
+C:\Users\User\Desktop\Univercite\tronc commun\projet informatique 3\projet info II\projet info II\bin\Debug\count.pdb
+C:\Users\User\Desktop\Univercite\tronc commun\projet informatique 3\projet info II\projet info II\bin\Debug\notes.pdb
+C:\Users\User\Desktop\Univercite\tronc commun\projet informatique 3\projet info II\projet info II\bin\Debug\xmlfile.pdb
+C:\Users\User\Desktop\Univercite\tronc commun\projet informatique 3\projet info II\projet info II\bin\Debug\CircularProgressBar.xml
+C:\Users\User\Desktop\Univercite\tronc commun\projet informatique 3\projet info II\projet info II\bin\Debug\WindowsFormsApp13.pdb
+C:\Users\User\Desktop\Univercite\tronc commun\projet informatique 3\projet info II\projet info II\bin\Debug\WindowsFormsApp13.exe.config
+C:\Users\User\Desktop\Univercite\tronc commun\projet informatique 3\projet info II\projet info II\bin\Debug\Interop.WMPLib.dll
+C:\Users\User\Desktop\Univercite\tronc commun\projet informatique 3\projet info II\projet info II\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Desktop\Univercite\tronc commun\projet informatique 3\projet info II\projet info II\obj\Debug\projet info II.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Univercite\tronc commun\projet informatique 3\projet info II\projet info II\obj\Debug\projet_info_II.comporale.resources
+C:\Users\User\Desktop\Univercite\tronc commun\projet informatique 3\projet info II\projet info II\obj\Debug\projet_info_II.confbdpq_serie2.resources
+C:\Users\User\Desktop\Univercite\tronc commun\projet informatique 3\projet info II\projet info II\obj\Debug\projet_info_II.confbdpq.resources
+C:\Users\User\Desktop\Univercite\tronc commun\projet informatique 3\projet info II\projet info II\obj\Debug\projet_info_II.confbdpqserie.resources
+C:\Users\User\Desktop\Univercite\tronc commun\projet informatique 3\projet info II\projet info II\obj\Debug\projet_info_II.confbp.resources
+C:\Users\User\Desktop\Univercite\tronc commun\projet informatique 3\projet info II\projet info II\obj\Debug\projet_info_II.confbpserie2.resources
+C:\Users\User\Desktop\Univercite\tronc commun\projet informatique 3\projet info II\projet info II\obj\Debug\projet_info_II.confcg.resources
+C:\Users\User\Desktop\Univercite\tronc commun\projet informatique 3\projet info II\projet info II\obj\Debug\projet_info_II.confcg_serie2.resources
+C:\Users\User\Desktop\Univercite\tronc commun\projet informatique 3\projet info II\projet info II\obj\Debug\projet_info_II.confchsss_serie2.resources
+C:\Users\User\Desktop\Univercite\tronc commun\projet informatique 3\projet info II\projet info II\obj\Debug\projet_info_II.confch_s_ss.resources
+C:\Users\User\Desktop\Univercite\tronc commun\projet informatique 3\projet info II\projet info II\obj\Debug\projet_info_II.confdt.resources
+C:\Users\User\Desktop\Univercite\tronc commun\projet informatique 3\projet info II\projet info II\obj\Debug\projet_info_II.confdt_serie2.resources
+C:\Users\User\Desktop\Univercite\tronc commun\projet informatique 3\projet info II\projet info II\obj\Debug\projet_info_II.confgch.resources
+C:\Users\User\Desktop\Univercite\tronc commun\projet informatique 3\projet info II\projet info II\obj\Debug\projet_info_II.confgch_serie2.resources
+C:\Users\User\Desktop\Univercite\tronc commun\projet informatique 3\projet info II\projet info II\obj\Debug\projet_info_II.confson.resources
+C:\Users\User\Desktop\Univercite\tronc commun\projet informatique 3\projet info II\projet info II\obj\Debug\projet_info_II.confvf.resources
+C:\Users\User\Desktop\Univercite\tronc commun\projet informatique 3\projet info II\projet info II\obj\Debug\projet_info_II.confvf_serie2.resources
+C:\Users\User\Desktop\Univercite\tronc commun\projet informatique 3\projet info II\projet info II\obj\Debug\projet_info_II.dictee.resources
+C:\Users\User\Desktop\Univercite\tronc commun\projet informatique 3\projet info II\projet info II\obj\Debug\projet_info_II.registration.resources
+C:\Users\User\Desktop\Univercite\tronc commun\projet informatique 3\projet info II\projet info II\obj\Debug\projet_info_II.Francais.resources
+C:\Users\User\Desktop\Univercite\tronc commun\projet informatique 3\projet info II\projet info II\obj\Debug\projet_info_II.Game.resources
+C:\Users\User\Desktop\Univercite\tronc commun\projet informatique 3\projet info II\projet info II\obj\Debug\projet_info_II.grammaire.resources
+C:\Users\User\Desktop\Univercite\tronc commun\projet informatique 3\projet info II\projet info II\obj\Debug\projet_info_II.homophone_et_est.resources
+C:\Users\User\Desktop\Univercite\tronc commun\projet informatique 3\projet info II\projet info II\obj\Debug\projet_info_II.lect_son_a.resources
+C:\Users\User\Desktop\Univercite\tronc commun\projet informatique 3\projet info II\projet info II\obj\Debug\projet_info_II.lect_son_ou.resources
+C:\Users\User\Desktop\Univercite\tronc commun\projet informatique 3\projet info II\projet info II\obj\Debug\projet_info_II.Logique.resources
+C:\Users\User\Desktop\Univercite\tronc commun\projet informatique 3\projet info II\projet info II\obj\Debug\projet_info_II.orthographe_er_é.resources
+C:\Users\User\Desktop\Univercite\tronc commun\projet informatique 3\projet info II\projet info II\obj\Debug\projet_info_II.oublier.resources
+C:\Users\User\Desktop\Univercite\tronc commun\projet informatique 3\projet info II\projet info II\obj\Debug\projet_info_II.Properties.Resources.resources
+C:\Users\User\Desktop\Univercite\tronc commun\projet informatique 3\projet info II\projet info II\obj\Debug\projet_info_II.show.resources
+C:\Users\User\Desktop\Univercite\tronc commun\projet informatique 3\projet info II\projet info II\obj\Debug\projet_info_II.Signup.resources
+C:\Users\User\Desktop\Univercite\tronc commun\projet informatique 3\projet info II\projet info II\obj\Debug\projet info II.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Univercite\tronc commun\projet informatique 3\projet info II\projet info II\obj\Debug\projet info II.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Univercite\tronc commun\projet informatique 3\projet info II\projet info II\obj\Debug\projet info II.csproj.CopyComplete

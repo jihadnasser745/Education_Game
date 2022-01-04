@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+<level2>
+<ID>1</ID>
+<question>ecrire en chiffre 25?</question>
+<repone1>vingt cinq</repone1>
+</level2>
+<level2>
+<ID>2</ID>
+<question>ecrire en chiffre 6?</question>
+<repone1>six</repone1>
+</level2>
+<level2>
+<ID>3</ID>
+<question>ecrire en chiffre 12?</question>
+<repone1>douze</repone1>
+</level2>
+<level2>
+<ID>4</ID>
+<question>ecrire en chiffre 4?</question>
+<repone1>quatre</repone1>
+</level2>
+<level2>
+<ID>5</ID>
+<question>ecrire en nombre quatre-vingt cinq?</question>
+<repone1>85</repone1>
+</level2>
+<level2>
+<ID>6</ID>
+<question>ecrire en nombre dix sept?</question>
+<repone1>17</repone1>
+</level2>
+<level2>
+<ID>7</ID>
+<question>ecrire en nombre queinz?</question>
+<repone1>15</repone1>
+</level2>
+<level2>
+<ID>8</ID>
+<question>ecrire en nombre huit?</question>
+<repone1>8</repone1>
+</level2>
+<level2>
+<ID>9</ID>
+<question>ecrire en nombre seize?</question>
+<repone1>16</repone1>
+</level2>
+<level2>
+<ID>10</ID>
+<question>ecrire en nombre cent trente cinq?</question>
+<repone1>135</repone1>
+</level2>
+<level2>
+<ID>11</ID>
+<question>compelment de 10? 0</question>
+<repone1>10</repone1>
+</level2>
+<level2>
+<ID>12</ID>
+<question>compelment de 10? 1</question>
+<repone1>9</repone1>
+</level2>
+<level2>
+<ID>13</ID>
+<question>compelment de 10? 2</question>
+<repone1>8</repone1>
+</level2>
+<level2>
+<ID>14</ID>
+<question>compelment de 10? 3</question>
+<repone1>7</repone1>
+</level2>
+<level2>
+<ID>15</ID>
+<question>compelment de 10? 4</question>
+<repone1>6</repone1>
+</level2>
+<level2>
+<ID>16</ID>
+<question>compelment de 10? 5</question>
+<repone1>5</repone1>
+</level2>
+<level2>
+<ID>17</ID>
+<question>compelment de 10? 6</question>
+<repone1>4</repone1>
+</level2>
+<level2>
+<ID>18</ID>
+<question>compelment de 10? 7</question>
+<repone1>3</repone1>
+</level2>
+<level2>
+<ID>19</ID>
+<question>compelment de 10? 8</question>
+<repone1>2</repone1>
+</level2>
+<level2>
+<ID>20</ID>
+<question>compelment de 10? 9</question>
+<repone1>1</repone1>
+</level2>
+<level2>
+<ID>21</ID>
+<question>ecrire ,par ordre croissante ,les nombres suivants?  13  4  8</question>
+<repone1>4</repone1>
+<reponce2>8</reponce2>
+<correction1>13</correction1>
+</level2>
+<level2>
+<ID>22</ID>
+<question>ecrire ,par ordre croissante ,les nombres suivants? 22   13  15</question>
+<repone1>13</repone1>
+<reponce2>15</reponce2>
+<correction1>22</correction1>
+</level2>
+<level2>
+<ID>23</ID>
+<question>ecrire ,par ordre croissante ,les nombres suivants?  3  14  16</question>
+<repone1>3</repone1>
+<reponce2>14</reponce2>
+<correction1>16</correction1>
+</level2>
+<level2>
+<ID>24</ID>
+<question>ecrire ,par ordre croissante ,les nombres suivants?  28   18  30</question>
+<repone1>18</repone1>
+<reponce2>28</reponce2>
+<correction1>30</correction1>
+</level2>
+<level2>
+<ID>25</ID>
+<question>ecrire ,par ordre croissante ,les nombres suivants?  6   3   37</question>
+<repone1>3</repone1>
+<reponce2>6</reponce2>
+<correction1>37</correction1>
+</level2>
+<level2>
+<ID>26</ID>
+<question>ecrire ,par ordre decroissante ,les nombres suivants?  25   20  23</question>
+<repone1>25</repone1>
+<reponce2>23</reponce2>
+<correction1>20</correction1>
+</level2>
+<level2>
+<ID>27</ID>
+<question>ecrire ,par ordre decroissante ,les nombres suivants?  8  15   14</question>
+<repone1>15</repone1>
+<reponce2>14</reponce2>
+<correction1>8</correction1>
+</level2>
+<level2>
+<ID>28</ID>
+<question>ecrire ,par ordre decroissante ,les nombres suivants? 13   22  16</question>
+<repone1>22</repone1>
+<reponce2>16</reponce2>
+<correction1>13</correction1>
+</level2>
+<level2>
+<ID>29</ID>
+<question>ecrire ,par ordre decroissante ,les nombres suivants?  4   13  3</question>
+<repone1>13</repone1>
+<reponce2>4</reponce2>
+<correction1>3</correction1>
+</level2>
+<level2>
+<ID>30</ID>
+<question>ecrire ,par ordre decroissante ,les nombres suivants? 13  14  25</question>
+<repone1>25</repone1>
+<reponce2>14</reponce2>
+<correction1>13</correction1>
+</level2>
+</dataroot>

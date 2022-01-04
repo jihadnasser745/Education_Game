@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\projet info II\count\bin\Debug\count.dll
+C:\Users\User\Desktop\projet info II\count\bin\Debug\count.pdb
+C:\Users\User\Desktop\projet info II\count\obj\Debug\count.dll
+C:\Users\User\Desktop\projet info II\count\obj\Debug\count.pdb
+C:\Users\User\Desktop\projet info II\count\obj\Debug\count.csprojAssemblyReference.cache
+C:\Users\User\Desktop\projet info II\count\obj\Debug\count.csproj.CoreCompileInputs.cache

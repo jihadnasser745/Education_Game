@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+<level4>
+<ID>1</ID>
+<question>completer la suite suivante:3    6     9</question>
+<chois1>10</chois1>
+<chois2>11</chois2>
+<chois3>12</chois3>
+<chois4>13</chois4>
+<correction>12</correction>
+<demonstration>+3</demonstration>
+</level4>
+<level4>
+<ID>2</ID>
+<question>completer la suite suivante:10     5      2,5</question>
+<chois1>5</chois1>
+<chois2>2.5</chois2>
+<chois3>1</chois3>
+<chois4>1.25</chois4>
+<correction>1.25</correction>
+<demonstration>/2</demonstration>
+</level4>
+<level4>
+<ID>3</ID>
+<question>completer la suite suivante:30     36     42</question>
+<chois1>44</chois1>
+<chois2>48</chois2>
+<chois3>52</chois3>
+<chois4>56</chois4>
+<correction>48</correction>
+<demonstration>+6</demonstration>
+</level4>
+<level4>
+<ID>4</ID>
+<question>completer la suite suivante:30     20     10</question>
+<chois1>5</chois1>
+<chois2>0</chois2>
+<chois3>20</chois3>
+<chois4>25</chois4>
+<correction>0</correction>
+<demonstration>-10</demonstration>
+</level4>
+<level4>
+<ID>5</ID>
+<question>completer la suite suivante:30     50     70</question>
+<chois1>80</chois1>
+<chois2>90</chois2>
+<chois3>100</chois3>
+<chois4>120</chois4>
+<correction>90</correction>
+<demonstration>+20</demonstration>
+</level4>
+<level4>
+<ID>6</ID>
+<question>completer la suite suivante:600   300    150</question>
+<chois1>75</chois1>
+<chois2>120</chois2>
+<chois3>50</chois3>
+<chois4>100</chois4>
+<correction>75</correction>
+<demonstration>/2</demonstration>
+</level4>
+<level4>
+<ID>7</ID>
+<question>completer la suite suivante:64 000    16 000     4 000</question>
+<chois1>2000</chois1>
+<chois2>3000</chois2>
+<chois3>1000</chois3>
+<chois4>0</chois4>
+<correction>1000</correction>
+<demonstration>/4</demonstration>
+</level4>
+<level4>
+<ID>8</ID>
+<question>completer la suite suivante:2       12       72</question>
+<chois1>144</chois1>
+<chois2>432</chois2>
+<chois3>430</chois3>
+<chois4>532</chois4>
+<correction>432</correction>
+<demonstration>*6</demonstration>
+</level4>
+<level4>
+<ID>9</ID>
+<question>completer la suite suivante:5       15       45</question>
+<chois1>55</chois1>
+<chois2>65</chois2>
+<chois3>95</chois3>
+<chois4>135</chois4>
+<correction>135</correction>
+<demonstration>*3</demonstration>
+</level4>
+<level4>
+<ID>10</ID>
+<question>completer la suite suivante:1       4          9</question>
+<chois1>14</chois1>
+<chois2>15</chois2>
+<chois3>16</chois3>
+<chois4>25</chois4>
+<correction>16</correction>
+<demonstration>le carre de nombre</demonstration>
+</level4>
+<level4>
+<ID>11</ID>
+<question>completer la suite suivante: 1, 3, 5, 7, 11, 13</question>
+<chois1>15</chois1>
+<chois2>16</chois2>
+<chois3>17</chois3>
+<chois4>18</chois4>
+<correction>17</correction>
+<demonstration>nombre premier</demonstration>
+</level4>
+<level4>
+<ID>12</ID>
+<question>completer la suite suivante: 5, 11, 7, 13, 9, 15, 11</question>
+<chois1>7</chois1>
+<chois2>17</chois2>
+<chois3>19</chois3>
+<chois4>21</chois4>
+<correction>17</correction>
+<demonstration> la progression est de +2 mais un terme sur 2</demonstration>
+</level4>
+<level4>
+<ID>13</ID>
+<question>completer la suite suivante:1, 2, 4, 7, 11, 16</question>
+<chois1>22</chois1>
+<chois2>18</chois2>
+<chois3>20</chois3>
+<chois4>21</chois4>
+<correction>22</correction>
+<demonstration>+1  +2  +3  +4 ansi de suite</demonstration>
+</level4>
+<level4>
+<ID>14</ID>
+<question>completer la suite suivante:1, 2, 4, 8, 14</question>
+<chois1>25</chois1>
+<chois2>22</chois2>
+<chois3>16</chois3>
+<chois4>19</chois4>
+<correction>22</correction>
+<demonstration>nombre maximum de régions du plan découpées par des cercles</demonstration>
+</level4>
+<level4>
+<ID>15</ID>
+<question>completer la suite suivante:49 - 52 - 55 - 58-……... - 64 - 67 - 70 - 73</question>
+<chois1>60</chois1>
+<chois2>61</chois2>
+<chois3>62</chois3>
+<chois4>59</chois4>
+<correction>61</correction>
+<demonstration>+3</demonstration>
+</level4>
+<level4>
+<ID>16</ID>
+<question>completer la suite suivante:112 - 105 - 98 - 91 -……...- 77 - 70 - 63 - 56</question>
+<chois1>84</chois1>
+<chois2>85</chois2>
+<chois3>83</chois3>
+<chois4>86</chois4>
+<correction>84</correction>
+<demonstration>-7</demonstration>
+</level4>
+<level4>
+<ID>17</ID>
+<question>completer la suite suivante:4 - 12 - 36 -……….- 324 - 972 - 2916</question>
+<chois1>222</chois1>
+<chois2>306</chois2>
+<chois3>108</chois3>
+<chois4>96</chois4>
+<correction>108</correction>
+<demonstration>*3</demonstration>
+</level4>
+<level4>
+<ID>18</ID>
+<question>completer la suite suivante:7 - 10 - 9 - 12 - 11 - 14 -……...- 16 - 15 - 18 - 17 - 20</question>
+<chois1>11</chois1>
+<chois2>12</chois2>
+<chois3>13</chois3>
+<chois4>15</chois4>
+<correction>13</correction>
+<demonstration>+3 suivi de -1</demonstration>
+</level4>
+<level4>
+<ID>19</ID>
+<question>completer la suite suivante:90 - 95 - 93 - 98 -……….- 101 - 99 - 104 - 102 - 107</question>
+<chois1>103</chois1>
+<chois2>95</chois2>
+<chois3>92</chois3>
+<chois4>96</chois4>
+<correction>96</correction>
+<demonstration>+5 suivi de -2</demonstration>
+</level4>
+<level4>
+<ID>20</ID>
+<question>completer la suite suivante:19 - 23 - 24 - 28 -…….-33 - 34 - 38 - 39 - 43 - 44</question>
+<chois1>29</chois1>
+<chois2>30</chois2>
+<chois3>31</chois3>
+<chois4>32</chois4>
+<correction>29</correction>
+<demonstration>+4 suivi de +1</demonstration>
+</level4>
+<level4>
+<ID>21</ID>
+<question>completer la suite suivante:71 - 65 - 61 -……….- 51 - 45 - 41 - 35 - 31 - 25 - 21</question>
+<chois1>59</chois1>
+<chois2>57</chois2>
+<chois3>55</chois3>
+<chois4>53</chois4>
+<correction>55</correction>
+<demonstration>-6  suivi de -4</demonstration>
+</level4>
+<level4>
+<ID>22</ID>
+<question>completer la suite suivante:67 - 65 - 66 - 64 - 65 - 63 - 64 -……...- 63 - 61 - 62 - 60 - 61</question>
+<chois1>61</chois1>
+<chois2>62</chois2>
+<chois3>60</chois3>
+<chois4>63</chois4>
+<correction>62</correction>
+<demonstration>-2 suivi de +1</demonstration>
+</level4>
+<level4>
+<ID>23</ID>
+<question>completer la suite suivante:38 - 47 - 39 - 48 -…….. - 49 - 41 - 50 - 42 - 51 - 43</question>
+<chois1>50</chois1>
+<chois2>40</chois2>
+<chois3>45</chois3>
+<chois4>55</chois4>
+<correction>40</correction>
+<demonstration>+9 suivi de -8</demonstration>
+</level4>
+<level4>
+<ID>24</ID>
+<question>completer la suite suivante:102 - 99 - 94 - 91 -……….- 83 - 78 - 75 - 70 - 67 - 62</question>
+<chois1>84</chois1>
+<chois2>86</chois2>
+<chois3>88</chois3>
+<chois4>90</chois4>
+<correction>86</correction>
+<demonstration>-3  suivi de -5</demonstration>
+</level4>
+<level4>
+<ID>25</ID>
+<question>completer la suite suivante: 0, 4, 18, 48, 100</question>
+<chois1>180</chois1>
+<chois2>170</chois2>
+<chois3>175</chois3>
+<chois4>157</chois4>
+<correction>180</correction>
+<demonstration>n*(n+1)^2</demonstration>
+</level4>
+<level4>
+<ID>26</ID>
+<question>completer la suite suivante:5-12-7-16-9-20</question>
+<chois1>13</chois1>
+<chois2>17</chois2>
+<chois3>11</chois3>
+<chois4>7</chois4>
+<correction>11</correction>
+<demonstration>on ajoute 2 (5-7-9..)</demonstration>
+</level4>
+<level4>
+<ID>27</ID>
+<question>completer la suite suivante:2-6-42-1806</question>
+<chois1>3233451</chois1>
+<chois2>3263442</chois2>
+<chois3>3262417</chois3>
+<chois4>4315541</chois4>
+<correction>3263442</correction>
+<demonstration>1806*1806+1806</demonstration>
+</level4>
+<level4>
+<ID>28</ID>
+<question>completer la suite suivante:100, 50, 10, 40, 80, 90</question>
+<chois1>60</chois1>
+<chois2>70</chois2>
+<chois3>30</chois3>
+<chois4>20</chois4>
+<correction>60</correction>
+<demonstration> en ordre alphabétique ainsi on a cent</demonstration>
+</level4>
+<level4>
+<ID>29</ID>
+<question>completer la suite suivante:1, 2, 2, 4, 8, 32, 256</question>
+<chois1>512</chois1>
+<chois2>1024</chois2>
+<chois3>2048</chois3>
+<chois4>8192</chois4>
+<correction>8192</correction>
+<demonstration>32*256 = 8192</demonstration>
+</level4>
+<level4>
+<ID>30</ID>
+<question>completer la suite suivante:15   29   56   108   208</question>
+<chois1>386</chois1>
+<chois2>400</chois2>
+<chois3>416</chois3>
+<chois4>438</chois4>
+<correction>400</correction>
+</level4>
+<level4>
+<ID>31</ID>
+<question>completer la suite suivante:13   -21    34   -55   89</question>
+<chois1>-96</chois1>
+<chois2>104</chois2>
+<chois3>-123</chois3>
+<chois4>-144</chois4>
+<correction>-144</correction>
+</level4>
+<level4>
+<ID>32</ID>
+<question>completer la suite suivante:52   56   48   64   32</question>
+<chois1>84</chois1>
+<chois2>112</chois2>
+<chois3>96</chois3>
+<chois4>94</chois4>
+<correction>96</correction>
+</level4>
+<level4>
+<ID>33</ID>
+<question>completer la suite suivante:1   3    7   11   13</question>
+<chois1>17</chois1>
+<chois2>15</chois2>
+<chois3>19</chois3>
+<chois4>21</chois4>
+<correction>17</correction>
+</level4>
+<level4>
+<ID>34</ID>
+<question>completer la suite suivante:230    460   46   92    9.2</question>
+<chois1>18.4</chois1>
+<chois2>18</chois2>
+<chois3>18.2</chois3>
+<chois4>20.4</chois4>
+<correction>18.4</correction>
+</level4>
+<level4>
+<ID>35</ID>
+<question>completer la suite suivante:3   12    24   33   66</question>
+<chois1>75</chois1>
+<chois2>74</chois2>
+<chois3>86</chois3>
+<chois4>82</chois4>
+<correction>75</correction>
+</level4>
+<level4>
+<ID>36</ID>
+<question>completer la suite suivante:3   5   7   11   13</question>
+<chois1>14</chois1>
+<chois2>19</chois2>
+<chois3>16</chois3>
+<chois4>17</chois4>
+<correction>17</correction>
+</level4>
+<level4>
+<ID>37</ID>
+<question>completer la suite suivante:8   16   24   36  48</question>
+<chois1>58</chois1>
+<chois2>76</chois2>
+<chois3>64</chois3>
+<chois4>72</chois4>
+<correction>64</correction>
+</level4>
+<level4>
+<ID>38</ID>
+<question>completer la suite suivante:68   36   20   12   8</question>
+<chois1>4</chois1>
+<chois2>5</chois2>
+<chois3>3</chois3>
+<chois4>6</chois4>
+<correction>6</correction>
+</level4>
+<level4>
+<ID>39</ID>
+<question>completer la suite suivante:18    6   24   8   32</question>
+<chois1>9</chois1>
+<chois2>10.7</chois2>
+<chois3>10</chois3>
+<chois4>8</chois4>
+<correction>10.7</correction>
+</level4>
+<level4>
+<ID>40</ID>
+<question>completer la suite suivante:99   18   36   9   18</question>
+<chois1>36</chois1>
+<chois2>27</chois2>
+<chois3>9</chois3>
+<chois4>3</chois4>
+<correction>9</correction>
+</level4>
+</dataroot>

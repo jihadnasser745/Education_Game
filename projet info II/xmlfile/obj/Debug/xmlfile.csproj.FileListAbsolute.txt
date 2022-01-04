@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\projet info II\xmlfile\bin\Debug\xmlfile.dll
+C:\Users\User\Desktop\projet info II\xmlfile\bin\Debug\xmlfile.pdb
+C:\Users\User\Desktop\projet info II\xmlfile\obj\Debug\xmlfile.dll
+C:\Users\User\Desktop\projet info II\xmlfile\obj\Debug\xmlfile.pdb
+C:\Users\User\Desktop\projet info II\xmlfile\bin\Debug\notes.dll
+C:\Users\User\Desktop\projet info II\xmlfile\bin\Debug\notes.pdb
+C:\Users\User\Desktop\projet info II\xmlfile\obj\Debug\xmlfile.csprojAssemblyReference.cache
+C:\Users\User\Desktop\projet info II\xmlfile\obj\Debug\xmlfile.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\projet info II\xmlfile\obj\Debug\xmlfile.csproj.CopyComplete

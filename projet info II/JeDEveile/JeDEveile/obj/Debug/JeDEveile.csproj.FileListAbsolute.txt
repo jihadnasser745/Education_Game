@@ -1,0 +1,20 @@
+C:\Users\User\Desktop\projet info II\JeDEveile\JeDEveile\bin\Debug\JeDEveile.exe.config
+C:\Users\User\Desktop\projet info II\JeDEveile\JeDEveile\bin\Debug\JeDEveile.exe
+C:\Users\User\Desktop\projet info II\JeDEveile\JeDEveile\bin\Debug\JeDEveile.pdb
+C:\Users\User\Desktop\projet info II\JeDEveile\JeDEveile\bin\Debug\count.dll
+C:\Users\User\Desktop\projet info II\JeDEveile\JeDEveile\bin\Debug\DarrenLee.SpeechSynthesis.dll
+C:\Users\User\Desktop\projet info II\JeDEveile\JeDEveile\bin\Debug\notes.dll
+C:\Users\User\Desktop\projet info II\JeDEveile\JeDEveile\bin\Debug\xmlfile.dll
+C:\Users\User\Desktop\projet info II\JeDEveile\JeDEveile\bin\Debug\count.pdb
+C:\Users\User\Desktop\projet info II\JeDEveile\JeDEveile\bin\Debug\notes.pdb
+C:\Users\User\Desktop\projet info II\JeDEveile\JeDEveile\bin\Debug\xmlfile.pdb
+C:\Users\User\Desktop\projet info II\JeDEveile\JeDEveile\obj\Debug\JeDEveile.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\projet info II\JeDEveile\JeDEveile\obj\Debug\JeDEveile.Form1.resources
+C:\Users\User\Desktop\projet info II\JeDEveile\JeDEveile\obj\Debug\JeDEveile.Properties.Resources.resources
+C:\Users\User\Desktop\projet info II\JeDEveile\JeDEveile\obj\Debug\JeDEveile.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\projet info II\JeDEveile\JeDEveile\obj\Debug\JeDEveile.exe
+C:\Users\User\Desktop\projet info II\JeDEveile\JeDEveile\obj\Debug\JeDEveile.pdb
+C:\Users\User\Desktop\projet info II\JeDEveile\JeDEveile\bin\Debug\projet info II.exe
+C:\Users\User\Desktop\projet info II\JeDEveile\JeDEveile\bin\Debug\WindowsFormsApp13.exe
+C:\Users\User\Desktop\projet info II\JeDEveile\JeDEveile\bin\Debug\projet info II.pdb
+C:\Users\User\Desktop\projet info II\JeDEveile\JeDEveile\bin\Debug\WindowsFormsApp13.pdb

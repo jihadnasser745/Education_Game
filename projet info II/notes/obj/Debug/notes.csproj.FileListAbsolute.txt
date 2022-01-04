@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\projet info II\notes\bin\Debug\notes.dll
+C:\Users\User\Desktop\projet info II\notes\bin\Debug\notes.pdb
+C:\Users\User\Desktop\projet info II\notes\obj\Debug\notes.dll
+C:\Users\User\Desktop\projet info II\notes\obj\Debug\notes.pdb
+C:\Users\User\Desktop\projet info II\notes\bin\Debug\matching.exe
+C:\Users\User\Desktop\projet info II\notes\obj\Debug\notes.csprojAssemblyReference.cache
+C:\Users\User\Desktop\projet info II\notes\obj\Debug\notes.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\projet info II\notes\obj\Debug\notes.csproj.CopyComplete
